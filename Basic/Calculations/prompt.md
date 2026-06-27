@@ -1,4 +1,10 @@
 # Calculations
+java supports calculation between numbers with
+- \+ (addition)
+- \- (subtraction)
+- \* (multiplication)
+- / (division)
+
 numbers can be added to a string with +
 
 EX.

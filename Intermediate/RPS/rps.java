@@ -1,6 +1,6 @@
-package Basic.Printing;
+package Intermediate.RPS;
 
-class print {
+class rps {
     public static void main(String[] Args) {
         //put code here vvvv
         

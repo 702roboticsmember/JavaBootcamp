@@ -1,6 +1,6 @@
-package Basic.Printing;
+package Basic.WhileLoop;
 
-class print {
+class whileLoop {
     public static void main(String[] Args) {
         //put code here vvvv
         

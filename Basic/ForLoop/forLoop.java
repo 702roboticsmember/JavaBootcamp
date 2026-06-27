@@ -1,4 +1,4 @@
-package Basic.Printing;
+package Basic.ForLoop;
 
 class print {
     public static void main(String[] Args) {

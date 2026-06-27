@@ -1,8 +1,7 @@
-package Basic.Printing;
+package Intermediate.Lambda;
 
-class print {
+class lambda {
     public static void main(String[] Args) {
         //put code here vvvv
-        
     }
 }
